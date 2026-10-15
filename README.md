@@ -1,52 +1,56 @@
-# Awesome-AI-Research-Prompts
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Research Prompts Banner" width="100%" />
+</p>
 
-## Top AI Research & Prompts Ecosystem
+# 🚀 Awesome AI Research Prompts
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Prompts/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Research-Prompts?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Prompts/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Research-Prompts?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Prompts/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Research-Prompts?style=flat-square" alt="GitHub issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Research-Prompts/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+<p align="center">
+  <strong>Curated Directory of Top AI Research Assistants, Prompt Engineering Frameworks & Open-Source Research Infrastructures</strong><br>
+  <em>Systematic Literature Discovery • Evidence Synthesis • Frontier System Prompt Reverse-Engineering • Citation Graphs</em>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+---
 
-*Focused on Literature Discovery, Evidence Synthesis & System Prompt Reverse-Engineering*  
+## 📌 Overview
 
-**Last updated: October 2026**
+This repository is an authoritative, SEO-indexed directory tracking the **AI Research & Prompts Ecosystem**. Whether you are an academic researcher, AI engineer, data scientist, or prompt engineer, this guide indexes both high-impact **SaaS platforms** and bleeding-edge **open-source repositories**.
 
+Key capabilities indexed here:
+- 🔍 **Automated Literature Reviews:** Semantic exploration across 200M+ research papers.
+- 📊 **Evidence Synthesis & Consensus:** Tabular extraction and agreement mapping from peer-reviewed publications.
+- 🔓 **System Prompt Reverse-Engineering:** Production system prompts leaked or extracted from leading foundation model apps.
+- 🕸️ **Citation Context & Graph Analysis:** Distinguishing supporting vs. contrasting citations and generating co-citation graphs.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Research & Prompts**. These tools enable researchers to search literature with semantic understanding, synthesize evidence across papers, trace citation contexts, and—increasingly—study the system prompts behind major AI products to understand how they are actually built.
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [💖 Support](#-support)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#-disclaimer)
 
+---
 
-**Examples** include Elicit, Consensus, SciSpace, Perplexity Pro, Semantic Scholar, Scite.ai, Paperpal, Iris.ai, Scholarcy, and Connected Papers (the category leaders).
+## 📊 Sector Overview & Market Dynamics
 
+The global Scientific Literature Review & AI Research software market is estimated at **$2.1 billion**, projected to expand to **$11.8 billion by 2034** at a **21.1% CAGR**. The sector remains **moderately fragmented**—featuring horizontal frontier search engines (such as Perplexity) rapidly capturing massive venture valuations at the top layer, alongside specialized, highly defensible vertical tools (evidence synthesis, citation context analysis, bibliometric graphs) competing across institutional and individual researcher workflows.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, system prompt archives, and open research tooling—ideal for researchers, prompt engineers, and developers seeking transparent, vendor-independent research infrastructure.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global Scientific Literature Review & AI Research software market is estimated at **$2.1 billion**, projected to expand to **$11.8 billion by 2034** at a ~21.1% CAGR. The sector remains **moderately fragmented**—featuring horizontal frontier search engines (such as Perplexity) rapidly capturing massive venture valuations at the top layer, alongside specialized, highly defensible vertical tools (evidence synthesis, citation context analysis, bibliometric graphs) competing across institutional and individual researcher workflows.
-
-## SaaS/Hosted Platforms
+## 🏢 SaaS & Hosted Platforms
 
 | Product | Valuation / Revenue | Starting Paid Price | Free Tier Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -61,128 +65,84 @@ The global Scientific Literature Review & AI Research software market is estimat
 | **[Scholarcy](https://www.scholarcy.com/)** | Bootstrapped / Privately held | $9.99/month | Free forever: 1 article summary per day via web/browser extension, max 11 MB file upload limit | AI paper summarization tool converting academic articles into interactive summary cards, key highlights, and references. |
 | **[Connected Papers](https://www.connectedpapers.com/)** | Bootstrapped / Privately held | $6/month (Academic, billed annually) or $20/mo | Free forever: 5 interactive similarity graphs per month with full feature access | Visual literature mapping tool that builds interactive co-citation and bibliographic coupling graphs around origin papers. |
 
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[System Prompts and Models of AI Tools (x1xhlol)](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)**  
-
-  **The most comprehensive open-source repository reverse-engineering system prompts from major AI products** (GPL-3.0). **100,000+ GitHub stars**—one of the fastest-growing repositories of 2026 . **Covers system prompts and internal tools from**: Cursor, Devin, v0, Manus, Windsurf, Cluely, Perplexity, Warp.dev, Bolt, Lovable, VSCode Copilot, Replit, Same.dev, Trae, Dia, Junie, Codex, Google, Claude Code, Xcode, Open Source apps, and more . **Organized by product** with full system prompts, tool definitions, and model information where available . **The definitive reference for understanding how production AI systems are instructed.** **Note**: Repository is under GPL-3.0; prompts are shared for educational and research purposes .
-
-
-
-- **[Awesome ChatGPT Prompts (f/awesome-chatgpt-prompts)**  
-
-  **The original and most widely used open-source prompt collection** (CC0-1.0) . **130,000+ GitHub stars.** **Curated prompts for ChatGPT and other LLMs**—covering writing, coding, marketing, education, and professional roles . **Community-maintained** with contributions from thousands of users . **The foundational resource for prompt engineering.**
-
-
-
-- **[Leaked System Prompts (asgeirtj)](https://github.com/asgeirtj/system_prompts_leaks)**  
-
-  **Collection of extracted system prompts from ChatGPT, Claude, and Gemini** (open-source) . **Focused archive of frontier model instructions**—documents how major AI assistants are configured . **Community-maintained** with regular updates as new prompts are extracted .
-
-
-
-- **[System Prompts Leaks (Rumored) (elder-plinius)](https://github.com/elder-plinius/CL4R1T4S)**  
-
-  **Comprehensive archive of system prompts and model configurations** (open-source) . **The most aggressive reverse-engineering project**—documents prompts, tools, and capabilities across AI products . **Note**: Some content may be outdated or unverified; verify against official sources .
-
-
-
-- **[Awesome Prompts (ai-boost)](https://github.com/ai-boost/awesome-prompts)**  
-
-  **Curated list of ChatGPT prompts from top-rated GPTs** (open-source) . **Peer-reviewed prompt collection** with ratings and use cases . **The most organized community prompt resource.**
-
-
-
-- **[Prompt Engineering Guide (DAIR.AI)](https://github.com/dair-ai/Prompt-Engineering-Guide)**  
-
-  **The standard reference for prompt engineering techniques** (open-source) . **Covers**: prompting fundamentals, techniques (zero-shot, few-shot, chain-of-thought, ReAct, self-consistency), applications (RAG, agents, evaluation), and models . **Research-backed content** with paper citations . **The most comprehensive prompt engineering resource available.**
-
-
-
-- **[Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)**  
-
-  **Curated list of prompt engineering papers, tools, and resources** (open-source) . **Research-focused** with links to academic papers and implementations .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[PaperQA](https://github.com/Future-House/paper-qa)** — Open-source RAG system for scientific literature (Apache-2.0). **The most accurate open-source literature Q&A tool**—answers with citations from PDFs .
-
-- **[PaperQA2](https://github.com/Future-House/paper-qa)** — Successor to PaperQA with improved agentic search and citation .
-
-- **[SciPy / PyData](https://github.com/scipy/scipy)** — Foundational scientific computing libraries for research workflows.
-
-- **[Zotero](https://github.com/zotero/zotero)** — Open-source reference manager (AGPL-3.0). **The standard open-source citation manager.**
-
-- **[OpenAlex](https://github.com/ourresearch/openalex-guts)** — Open scholarly metadata (CC0). **The most comprehensive open-access research graph.**
-
-- **[Scholarly](https://github.com/scholarly-python-package/scholarly)** — Python library for Google Scholar queries (MIT) .
-
-- **[Arxiv.py](https://github.com/lukasschwab/arxiv.py)** — Python wrapper for the arXiv API (MIT) .
-
-- **[PyPaperBot](https://github.com/ferreiradev/PyPaperBot)** — Download scientific papers from Sci-Hub using DOIs (MIT) .
-
-- **[Zotero Better BibTeX](https://github.com/retorquere/zotero-better-bibtex)** — Citation management extension (MIT) .
-
-- Community **n8n** workflows for literature monitoring and research alert automation.
-
-
-
-**Frameworks for building custom systems**: Combine **System Prompts and Models of AI Tools** for understanding production AI architecture with **Awesome ChatGPT Prompts** for reusable prompts, **PaperQA2** for literature Q&A, **Zotero** for reference management, and **OpenAlex** for scholarly metadata—creating a comprehensive AI research stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Research tools handling academic papers must comply with copyright law and publisher terms of service. **System prompt repositories are for educational and research purposes**—prompts are the intellectual property of their creators.
-
-- **System prompt reverse-engineering is a gray area.** The x1xhlol repository (100,000+ stars) publishes extracted prompts from commercial products under GPL-3.0 . **This is legally untested territory**—use for research and education, not to replicate products.
-
-- **Prompt extraction is inherently imperfect.** Extracted prompts may be outdated, incomplete, or from older model versions. **Verify against official documentation before relying on them.** The elder-plinius repository explicitly warns some content may be unverified .
-
-- **Open-source research tooling is mature and production-ready.** PaperQA2 provides accurate literature Q&A with citations . Zotero is the standard open-source citation manager . OpenAlex provides comprehensive open scholarly metadata under CC0 . **These are genuine alternatives to commercial platforms.**
-
-- **Citation-first is the right pattern.** Consensus, Perplexity Pro, and Scite.ai all ground answers in sources with citations . **Answers without citations are not research—they are speculation.**
-
-- **Semantic search beats keyword search for literature discovery.** Semantic Scholar, Elicit, and Connected Papers use semantic understanding to surface relevant work that keyword search misses . **This is the fundamental shift in research tooling.**
-
-- Self-hosted open-source solutions require proper security hardening and ongoing maintenance. **Research data may be subject to institutional review and data protection requirements.**
-
-
+---
+
+## 💻 Open-Source GitHub Projects
+
+All open-source repositories below are sorted in descending order by GitHub stargazers. Click any badge to inspect that project's stargazers community.
+
+| Project & Repository | Stars | Description & Key Features | License |
+| :--- | :--- | :--- | :--- |
+| **[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)** | [![GitHub stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social&color=white)](https://github.com/f/awesome-chatgpt-prompts/stargazers) | The original and most widely adopted prompt engineering collection covering conversational setups, role-play persona engineering, and model instruction patterns. | CC0-1.0 |
+| **[Open-WebUI](https://github.com/open-webui/open-webui)** | [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Extensible, self-hosted AI research interface featuring integrated web search, document RAG, model orchestration, and role-based prompt management. | Porting |
+| **[System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** | [![GitHub stars](https://img.shields.io/github/stars/x1xhlol/system-prompts-and-models-of-ai-tools?style=social&color=white)](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/stargazers) | Massive repository reverse-engineering production system prompts and internal tools from Cursor, Devin, v0, Manus, Perplexity, Warp, Replit, and Google. | GPL-3.0 |
+| **[RAGFlow](https://github.com/infiniflow/ragflow)** | [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social&color=white)](https://github.com/infiniflow/ragflow/stargazers) | Open-source deep document understanding engine and agentic RAG workflow system based on deep visual extraction for academic papers and complex PDFs. | Apache-2.0 |
+| **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** | [![GitHub stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social&color=white)](https://github.com/dair-ai/Prompt-Engineering-Guide/stargazers) | The gold-standard educational curriculum and reference guide on prompting techniques (Zero-shot, Few-shot, CoT, ReAct, Directional Stimulus, DSPy). | Apache-2.0 |
+| **[Leaked System Prompts](https://github.com/asgeirtj/system_prompts_leaks)** | [![GitHub stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks?style=social&color=white)](https://github.com/asgeirtj/system_prompts_leaks/stargazers) | Dedicated archive of verified, extracted system prompts from leading frontier foundation models (ChatGPT, Claude 3.5 Sonnet, Gemini Pro). | Open Source |
+| **[System Prompts Leaks (CL4R1T4S)](https://github.com/elder-plinius/CL4R1T4S)** | [![GitHub stars](https://img.shields.io/github/stars/elder-plinius/CL4R1T4S?style=social&color=white)](https://github.com/elder-plinius/CL4R1T4S/stargazers) | Comprehensive repository archiving jailbreaks, hidden prompt instructions, and reverse-engineered frontier agent configurations. | Open Source |
+| **[Marker](https://github.com/datalab-to/marker)** | [![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers) | High-accuracy converter transforming research PDFs, academic formulas, tables, and books into structured Markdown and LaTeX for LLM digestion. | GPL-3.0 |
+| **[Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)** | [![GitHub stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=social&color=white)](https://github.com/chatchat-space/Langchain-Chatchat/stargazers) | Local knowledge-base Q&A application powered by LangChain and local models, ideal for offline enterprise and academic paper digestion. | Apache-2.0 |
+| **[STORM](https://github.com/stanford-oval/storm)** | [![GitHub stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers) | Stanford University LLM system that conducts automated deep research, curates perspective outlines, searches the web, and generates Wikipedia-like synthesis reports. | MIT |
+| **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** | [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers) | Autonomous agent designed for comprehensive online research across 20+ web sources, aggregating factual citations into structured summaries. | Apache-2.0 |
+| **[Zotero](https://github.com/zotero/zotero)** | [![GitHub stars](https://img.shields.io/github/stars/zotero/zotero?style=social&color=white)](https://github.com/zotero/zotero/stargazers) | The open-source standard for research reference management, citation collections, PDF annotations, and academic collaboration. | AGPL-3.0 |
+| **[SciPy](https://github.com/scipy/scipy)** | [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers) | Foundational scientific and numerical computing library in Python providing mathematical algorithms powering research data analysis. | BSD-3-Clause |
+| **[Gorilla](https://github.com/ShishirPatil/gorilla)** | [![GitHub stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social&color=white)](https://github.com/ShishirPatil/gorilla/stargazers) | Berkeley open-source initiative enabling LLMs to accurately interact with massive APIs, scientific tools, and external research services. | Apache-2.0 |
+| **[PaperQA](https://github.com/Future-House/paper-qa)** | [![GitHub stars](https://img.shields.io/github/stars/Future-House/paper-qa?style=social&color=white)](https://github.com/Future-House/paper-qa/stargazers) | High-accuracy RAG and question answering system over academic papers with citation extraction, hallucination mitigations, and agentic search. | Apache-2.0 |
+| **[Awesome Prompts](https://github.com/ai-boost/awesome-prompts)** | [![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-prompts?style=social&color=white)](https://github.com/ai-boost/awesome-prompts/stargazers) | Peer-curated directory of top-rated prompts, structured GPT instructions, and system patterns across diverse technical domains. | Open Source |
+| **[R2R](https://github.com/SciPhi-AI/R2R)** | [![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social&color=white)](https://github.com/SciPhi-AI/R2R/stargazers) | Semi-structured and multimodal RAG engine with native graph RAG, automatic document parsing, and observability for scientific research pipelines. | MIT |
+| **[Zotero Better BibTeX](https://github.com/retorquere/zotero-better-bibtex)** | [![GitHub stars](https://img.shields.io/github/stars/retorquere/zotero-better-bibtex?style=social&color=white)](https://github.com/retorquere/zotero-better-bibtex/stargazers) | Essential extension for Zotero adding citation key generation and rock-solid BibTeX/BibLaTeX synchronization for LaTeX and Markdown writers. | MIT |
+| **[Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)** | [![GitHub stars](https://img.shields.io/github/stars/promptslab/Awesome-Prompt-Engineering?style=social&color=white)](https://github.com/promptslab/Awesome-Prompt-Engineering/stargazers) | Research-oriented collection of academic papers, benchmarking datasets, and tools evaluating prompting strategies. | Open Source |
+| **[HELM](https://github.com/stanford-crfm/helm)** | [![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social&color=white)](https://github.com/stanford-crfm/helm/stargazers) | Holistic Evaluation of Language Models from Stanford CRFM—evaluating accuracy, robustness, fairness, and bias across hundreds of scenarios. | Apache-2.0 |
+| **[SciSpacy](https://github.com/allenai/scispacy)** | [![GitHub stars](https://img.shields.io/github/stars/allenai/scispacy?style=social&color=white)](https://github.com/allenai/scispacy/stargazers) | Specialized spaCy models for processing biomedical, scientific, and clinical research text by the Allen Institute for AI. | Apache-2.0 |
+| **[Scholarly](https://github.com/scholarly-python-package/scholarly)** | [![GitHub stars](https://img.shields.io/github/stars/scholarly-python-package/scholarly?style=social&color=white)](https://github.com/scholarly-python-package/scholarly/stargazers) | Python module to retrieve author profiles and citation records programmatically from Google Scholar. | MIT |
+| **[Arxiv.py](https://github.com/lukasschwab/arxiv.py)** | [![GitHub stars](https://img.shields.io/github/stars/lukasschwab/arxiv.py?style=social&color=white)](https://github.com/lukasschwab/arxiv.py/stargazers) | Python wrapper around the arXiv API for automated paper retrieval, pre-print ingestion, and metadata harvesting. | MIT |
+| **[PyPaperBot](https://github.com/ferru97/PyPaperBot)** | [![GitHub stars](https://img.shields.io/github/stars/ferru97/PyPaperBot?style=social&color=white)](https://github.com/ferru97/PyPaperBot/stargazers) | Automated Python tool to search, index, and download scientific papers and metadata across online academic databases. | MIT |
+| **[ScholarPhi](https://github.com/allenai/scholarphi)** | [![GitHub stars](https://img.shields.io/github/stars/allenai/scholarphi?style=social&color=white)](https://github.com/allenai/scholarphi/stargazers) | AI-powered reading interface from Allen Institute for AI that surfaces inline definitions, equations, and citation context inside PDFs. | Apache-2.0 |
+| **[OpenAlex Guts](https://github.com/ourresearch/openalex-guts)** | [![GitHub stars](https://img.shields.io/github/stars/ourresearch/openalex-guts?style=social&color=white)](https://github.com/ourresearch/openalex-guts/stargazers) | Core backend infrastructure and schema powering OpenAlex—the open scholarly index cataloging 250M+ scientific works. | CC0-1.0 |
 
 ---
 
+## 📈 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Research-Prompts&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Research-Prompts&type=date&legend=top-left)
 
-**Made for researchers, prompt engineers, and developers building transparent AI research solutions.**  
+---
 
-Let's make AI Research & Prompts more open, data-driven, and citation-grounded.
+## 💖 Support
+
+Thank you for exploring and contributing to **Awesome AI Research Prompts**! 🌟
+
+If this repository assisted your academic research, prompt engineering experiments, or production AI builds, please consider supporting the project:
+
+- ⭐ **Star this repository** to help fellow researchers and developers discover it.
+- 🍴 **Fork and contribute** new tools, benchmarks, and prompt analyses.
+- 📢 **Share with your research lab**, peers, and colleagues on Discord, X/Twitter, or LinkedIn.
+- ☕ **Sponsor & Buy a Coffee:** Support ongoing maintenance, dataset updates, and server infrastructure via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! We aim to keep this the most accurate and up-to-date AI research prompts directory:
+
+1. **Fork** the repository.
+2. **Add or update entries** following the table format.
+3. Ensure links, starting pricing, free tier limits, and stargazer URLs are accurate and working.
+4. **Submit a Pull Request** with a concise description of your additions.
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated, independent directory**—inclusion does not represent formal commercial endorsement.
+- Research tools handling academic papers must comply with copyright regulations and publisher terms of service.
+- **System prompt reverse-engineering archives** are indexed strictly for academic analysis, AI safety research, and educational purposes. Prompts remain the intellectual property of their respective creators.
+- **Always verify citation claims:** While AI research assistants drastically accelerate synthesis, always cross-reference extracted claims against original peer-reviewed source PDFs before formal scientific publication.
+
+---
+
+<p align="center">
+  <strong>Crafted for researchers, prompt engineers, and developers building transparent, citation-grounded AI systems.</strong>
+</p>
